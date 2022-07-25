@@ -1,0 +1,2 @@
+# PensamentoComputacional-1D
+repositório para compartilhar trabalhos na disciplina de pensamento computacional.
