@@ -1,5 +1,8 @@
 # PensamentoComputacional-1D
 repositório para compartilhar trabalhos na disciplina de pensamento computacional.
+
+Mara Gabrielle Ribeiro n 19, Jenifer Nayara n 9
+
  ## o amor
  
  ## Saberás que não te amo e que te amo
